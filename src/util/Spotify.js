@@ -77,7 +77,7 @@ export default Spotify;*/
 
 let accessToken;
 const clientID = '62477595f49b4e4aa141514be97686db';
-const redirectURI = 'http://localhost:3000/';
+const redirectURI = 'https://daniel-g-v.github.io/Jammming/';
 
 const Spotify = {
     getAccessToken() {
